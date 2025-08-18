@@ -1,0 +1,15 @@
+/workspace/bin/Debug/net6.0/CollegeAdmissionSystem
+/workspace/bin/Debug/net6.0/CollegeAdmissionSystem.deps.json
+/workspace/bin/Debug/net6.0/CollegeAdmissionSystem.runtimeconfig.json
+/workspace/bin/Debug/net6.0/CollegeAdmissionSystem.dll
+/workspace/bin/Debug/net6.0/CollegeAdmissionSystem.pdb
+/workspace/obj/Debug/net6.0/CollegeAdmissionSystem.csproj.AssemblyReference.cache
+/workspace/obj/Debug/net6.0/CollegeAdmissionSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/obj/Debug/net6.0/CollegeAdmissionSystem.AssemblyInfoInputs.cache
+/workspace/obj/Debug/net6.0/CollegeAdmissionSystem.AssemblyInfo.cs
+/workspace/obj/Debug/net6.0/CollegeAdmissionSystem.csproj.CoreCompileInputs.cache
+/workspace/obj/Debug/net6.0/CollegeAdmissionSystem.dll
+/workspace/obj/Debug/net6.0/refint/CollegeAdmissionSystem.dll
+/workspace/obj/Debug/net6.0/CollegeAdmissionSystem.pdb
+/workspace/obj/Debug/net6.0/CollegeAdmissionSystem.genruntimeconfig.cache
+/workspace/obj/Debug/net6.0/ref/CollegeAdmissionSystem.dll
