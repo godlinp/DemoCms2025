@@ -1,0 +1,15 @@
+/workspace/EmployeeBonusSystem/bin/Debug/net8.0/EmployeeBonusSystem
+/workspace/EmployeeBonusSystem/bin/Debug/net8.0/EmployeeBonusSystem.deps.json
+/workspace/EmployeeBonusSystem/bin/Debug/net8.0/EmployeeBonusSystem.runtimeconfig.json
+/workspace/EmployeeBonusSystem/bin/Debug/net8.0/EmployeeBonusSystem.dll
+/workspace/EmployeeBonusSystem/bin/Debug/net8.0/EmployeeBonusSystem.pdb
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/EmployeeBonusSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/EmployeeBonusSystem.AssemblyInfoInputs.cache
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/EmployeeBonusSystem.AssemblyInfo.cs
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/EmployeeBonusSystem.csproj.CoreCompileInputs.cache
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/EmployeeBonusSystem.sourcelink.json
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/EmployeeBonusSystem.dll
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/refint/EmployeeBonusSystem.dll
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/EmployeeBonusSystem.pdb
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/EmployeeBonusSystem.genruntimeconfig.cache
+/workspace/EmployeeBonusSystem/obj/Debug/net8.0/ref/EmployeeBonusSystem.dll
